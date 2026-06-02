@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magnify</string>
+    <string name="accessibility_service_description">Magnify 使用无障碍服务实现系统级屏幕放大。开启后可通过悬浮按钮在任何应用中放大屏幕内容。</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">放大镜设置</string>
+    <string name="onboarding_subtitle">完成以下步骤即可开始使用</string>
+
+    <string name="card_overlay_title">悬浮窗权限</string>
+    <string name="card_overlay_desc">需要在其他应用上显示悬浮按钮</string>
+    <string name="card_overlay_action">前往授权</string>
+    <string name="card_overlay_granted">已授权</string>
+    <string name="card_overlay_required">必需（Android 8 及以下）</string>
+
+    <string name="card_accessibility_title">无障碍服务</string>
+    <string name="card_accessibility_desc">启用 Magnify 无障碍服务以控制屏幕放大</string>
+    <string name="card_accessibility_action">前往设置</string>
+    <string name="card_accessibility_enabled">已开启</string>
+    <string name="card_accessibility_guide">在设置中找到 "Magnify" 并开启开关</string>
+
+    <string name="card_unsupported_title">设备不支持</string>
+    <string name="card_unsupported_desc">您的设备系统版本低于 Android 9，不支持程序化放大控制。</string>
+    <string name="card_unsupported_fallback">替代方案：开启系统自带放大手势（连点三次屏幕放大）</string>
+    <string name="card_unsupported_action">开启系统放大手势</string>
+
+    <string name="status_all_ready">一切就绪，放大镜已激活</string>
+    <string name="status_pending">请完成以上设置</string>
+
+    <!-- Floating button -->
+    <string name="floating_button_magnify">开启屏幕放大</string>
+    <string name="floating_button_magnify_off">关闭屏幕放大</string>
+    <string name="floating_button_magnify_active">放大已开启，点击关闭</string>
+
+    <!-- Magnification -->
+    <string name="magnify_enabled">放大镜已开启</string>
+    <string name="magnify_disabled">放大镜已关闭</string>
+    <string name="magnify_unsupported">当前设备不支持放大控制</string>
+</resources>

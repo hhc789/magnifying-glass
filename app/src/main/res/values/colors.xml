@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF1565C0</color>
+    <color name="primary_variant">#FF0D47A1</color>
+    <color name="secondary">#FF42A5F5</color>
+    <color name="background">#FFF5F5F5</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_surface">#FF212121</color>
+    <color name="on_surface_variant">#FF757575</color>
+    <color name="floating_button_bg">#FF1565C0</color>
+    <color name="floating_button_bg_active">#FFE53935</color>
+    <color name="floating_button_icon">#FFFFFFFF</color>
+    <color name="success">#FF4CAF50</color>
+    <color name="warning">#FFFFA726</color>
+    <color name="error">#FFE53935</color>
+</resources>

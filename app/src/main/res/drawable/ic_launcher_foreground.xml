@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Magnifying glass adapted for adaptive icon safe zone (inner 72dp) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,24C33.95,24 25,32.95 25,43.5S33.95,63 45,63c5.98,0 11.43,-2.19 15.57,-5.8L62,58.46v2.04l13,12.97L82.97,66l-13,-13h-2.46L66,51.43C69.61,47.37 72,42.22 72,43.5 72,32.95 63.05,24 51.5,24H45zM45,29.4c7.78,0 14.1,6.32 14.1,14.1S52.78,57.6 45,57.6 30.9,51.28 30.9,43.5 37.22,29.4 45,29.4z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,40h4v-5h2v5h5v2h-5v5h-2v-5h-4z" />
+</vector>
